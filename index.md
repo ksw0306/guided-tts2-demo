@@ -1,4 +1,4 @@
-## Guided TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data
+## Guided-TTS 2: A Diffusion Model for High-quality Adaptive Text-to-Speech with Untranscribed Data
 
 ### Authors
 - Sungwon Kim (*Equal contribution) <a href="ksw930306@snu.ac.kr">ksw0306@snu.ac.kr</a>
